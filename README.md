@@ -6,6 +6,7 @@
 ```bash 
 pip install -r requirements.txt
 ```
+- Rodar script:
 
 ```bash
 python yolov8_counter.py --video "path-do-video" --save
