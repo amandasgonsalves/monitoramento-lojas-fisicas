@@ -4,7 +4,7 @@
 
 
   ```bash
-python yolov8_counter.py --video "path-do-video --save
+python yolov8_counter.py --video "path-do-video" --save
 ```
 
 
