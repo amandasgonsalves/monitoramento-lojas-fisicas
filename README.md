@@ -5,7 +5,7 @@
 - Instalar bibliotecas:
 ```bash 
 pip install -r requirements.txt
-
+```
 
 ```bash
 python yolov8_counter.py --video "path-do-video" --save
